@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721733569071",
+    "project_id": "trastain-1cec1",
+    "storage_bucket": "trastain-1cec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721733569071:android:8f063c203d5f6e1897d4da",
+        "android_client_info": {
+          "package_name": "com.mycompany.trastain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_v8RcE6OcfzA_xgVSF1Wkxx8MFKJwgp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
